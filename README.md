@@ -6,12 +6,12 @@ This is a small project in which a movie suggestion Rest api is automated using 
 
 Pre-requisites:
 =====================
-Download and install node
-Check the installation and version using "node --version.
-Now install npm
-Go to terminal and type npm init( You will get package.json file which contain meta data and dependencies)
-Install Cypress
-Install mocha
+1.Download and install node
+2. Check the installation and version using "node --version.
+3. Now install npm
+4. Go to terminal and type npm init( You will get package.json file which contain meta data and dependencies)
+5. Install Cypress
+6. Install mocha
 
 Note:
 ====================
@@ -24,6 +24,10 @@ In order to execute the tests make sure the following is true:
 6) Access http://localhost:3000
 7) Click on Try it out button 
 8) Click on api interactive doc
+9) Do not close the Visual Studio instance where server is running
+10)Open new window in Visual Studio Code Editor
+11)Go to Terminal
+12)Run the command: npm run e2e( this will start your tests in headless mode)
 
 
 
