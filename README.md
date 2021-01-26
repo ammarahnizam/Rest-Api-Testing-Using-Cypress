@@ -19,7 +19,7 @@ In order to execute the tests make sure the following is true:
 1) Create a PostgreSQL database from scratch
 2) Insert movies related data
 3) Now connect database
-4) make sure table is public and connected
+4) Make sure table is public and connected
 5) Do git clone https://github.com/RazzM13/movie_suggestion.git
 6) Navigate to the project from terminal
 7) Run 'npm run dev'
@@ -27,7 +27,7 @@ In order to execute the tests make sure the following is true:
 9) Do not close the Visual Studio instance where server is running
 10)Open new window in Visual Studio Code Editor
 11)Go to Terminal
-12)Run the command: npm run e2e( this will start your tests in headless mode)
+12)Run the command: npm run e2e( this will start your tests in headless mode) or npx cypress open( this will start your tests in browser)
 
 
 
