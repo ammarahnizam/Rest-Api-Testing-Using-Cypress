@@ -15,9 +15,9 @@ Install mocha
 
 Note:
 ====================
-In order to execute the tests ensure the following factors:
+In order to execute the tests make sure the following is true:
 1) Database Postgre SQL must be connected and running
-2) Table is public and connected
+2) Table inside database is public and connected
 3) Do git clone https://github.com/RazzM13/movie_suggestion.git
 4) Navigate to the project from terminal
 5) Run 'npm run dev'
